@@ -837,7 +837,7 @@
     },
     {
         "action": "SELECT_EXPLOSIVES",
-        "key": "PC_CAPSLOCK"
+        "key": "PC_4"
     },
     {
         "action": "SELECT_EXPLOSIVES",
